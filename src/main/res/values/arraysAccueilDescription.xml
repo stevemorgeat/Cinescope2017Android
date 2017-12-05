@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="descriptionOngletAccueil">
+        <item>Ancien, nouveau, futur</item>
+        <item>Les sorties de la semaine</item>
+        <item>Les meilleures entrées</item>
+        <item>Critique durrrrrrrr</item>
+        <item>par genre, annnées, etc</item>
+        <item>Description des salles de paris</item>
+        <item>les films en avant premières</item>
+        <item>Tout sur les festivals à venir</item>
+        <item>La presse people</item>
+        <item>Ici vous pouvez vous inscrire!!!</item>
+        <item>Ici vous allez vous connecter!!!</item>
+        <item>Ici vous gerez votre compte!!!</item>
+        <item>Importations SQL to SQLite!!!</item>
+    </string-array>
+
+
+</resources>

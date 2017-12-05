@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Box Office" />
+
+    <TextView
+        android:id="@+id/textViewBoxOffice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Box Office" />
+    <GridView
+        android:id="@+id/gridViewBoxOffice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:numColumns="3"
+        android:layout_margin="1dp"
+        android:padding="1dp">
+    </GridView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonAnnuler"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="50"
+            android:layout_margin="10dp"
+            android:text="Annuler" />
+
+        <Button
+            android:id="@+id/buttonValider"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="50"
+            android:layout_margin="10dp"
+            android:text="Valider" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="imageOngletAccueil">
+        <item>String.valueOf(R.drawable.tous_les_films)</item>
+        <item>String.valueOf(R.drawable.box_office)</item>
+        <item>String.valueOf(R.drawable.hit_parade)</item>
+        <item>String.valueOf(R.drawable.critique_film)</item>
+        <item>String.valueOf(R.drawable.recherche_avanee)</item>
+        <item>String.valueOf(R.drawable.salle_cinema)</item>
+        <item>AString.valueOf(R.drawable.avant_premiere)</item>
+        <item>String.valueOf(R.drawable.festival_cannes)</item>
+        <item>String.valueOf(R.drawable.article)</item>
+        <item>String.valueOf(R.drawable.hit_parade)</item>
+        <item>String.valueOf(R.drawable.hit_parade)</item>
+        <item>String.valueOf(R.drawable.hit_parade)</item>
+        <item>String.valueOf(R.drawable.festival_cannes)</item>
+    </string-array>
+
+
+</resources>

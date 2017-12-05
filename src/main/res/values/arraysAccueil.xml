@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="NomOngletAccueil">
+        <item>Tous les films</item>
+        <item>Box office</item>
+        <item>Hit parade du public</item>
+        <item>Avis des critiques</item>
+        <item>Recherche avancée</item>
+        <item>Salles de Paris</item>
+        <item>Avant-premières</item>
+        <item>Festivals</item>
+        <item>Les articles</item>
+        <item>Inscription</item>
+        <item>Authentification</item>
+        <item>Mon Compte</item>
+        <item>Importations</item>
+    </string-array>
+
+
+</resources>

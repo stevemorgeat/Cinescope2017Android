@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- pays_ligne.xml -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/imageViewCinescope2017"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="image"
+        android:src="@drawable/article"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/nomOnglet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="3dip" />
+
+        <TextView
+            android:id="@+id/desciptionOnglet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="3dip" />
+
+    </LinearLayout>
+
+</LinearLayout>

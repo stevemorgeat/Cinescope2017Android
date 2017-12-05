@@ -1,0 +1,95 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Main">
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Configuration"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemAPropos"
+        android:orderInCategory="101"
+        android:title="A propos" />
+    <item
+        android:id="@+id/itemAide"
+        android:orderInCategory="102"
+        android:title="Aide"
+        app:showAsAction="never" />
+    <item
+        android:orderInCategory="103"
+        android:title="_____________"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemAccueil"
+        android:orderInCategory="104"
+        android:title="Accueil"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemTousLesFilms"
+        android:orderInCategory="105"
+        android:title="Tous les Films"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemBoxOffice"
+        android:orderInCategory="106"
+        android:title="Box Office"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemHPP"
+        android:orderInCategory="107"
+        android:title="Hit Parade du Public"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemAvisDesCritiques"
+        android:orderInCategory="109"
+        android:title="Avis des Critiques"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemRechercheAvancee"
+        android:orderInCategory="108"
+        android:title="Recherche Avancée"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemSalleDeParis"
+        android:orderInCategory="110"
+        android:title="Salle de Paris"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemAvantPremiere"
+        android:orderInCategory="112"
+        android:title="Avant-Première"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemFestivals"
+        android:orderInCategory="111"
+        android:title="Festivals"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemArticle"
+        android:orderInCategory="112"
+        android:title="Article"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemInscription"
+        android:orderInCategory="113"
+        android:title="Inscription"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemAuthentification"
+        android:orderInCategory="114"
+        android:title="Authentification"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemMonCompte"
+        android:orderInCategory="115"
+        android:title="Mon Compte"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/itemImportations"
+        android:orderInCategory="115"
+        android:title="Importations"
+        app:showAsAction="never" />
+
+</menu>
